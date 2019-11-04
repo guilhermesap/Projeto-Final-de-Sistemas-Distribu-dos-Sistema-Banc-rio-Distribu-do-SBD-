@@ -9,6 +9,7 @@ para movimentações financeiras;
 ### uml: class diagram 
 
 ```
+@startuml
 package "Projeto Final SD" #DDDDDD {
     class Cliente {
         + email
