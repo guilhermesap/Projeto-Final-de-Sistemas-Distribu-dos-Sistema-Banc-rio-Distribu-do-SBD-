@@ -37,18 +37,14 @@ package "Projeto Final SD" #DDDDDD {
         + senha
     }
 
-    note right of Address 
-        There are two types of 
-        addresses: billing and shipping
-    end note
-
+   
     class SistemaBancário {
     }
 
-    SistemaBancário *-- Cliente
-    SistemaBancário *-- Conta
-    SistemaBancário *-- Operações
-    SistemaBancário *-- Login
+    SistemaBancário <|-- Cliente
+    SistemaBancário <|-- Conta
+    SistemaBancário <|-- Operações
+    SistemaBancário <|-- Login
     
     }
 }
