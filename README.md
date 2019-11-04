@@ -10,7 +10,7 @@ para movimentações financeiras;
 
 ```
 @startuml
-package "Projeto Final SD" #DDDDDD {
+package "Projeto Final SD" {
     class Cliente {
         + email
         + nome
