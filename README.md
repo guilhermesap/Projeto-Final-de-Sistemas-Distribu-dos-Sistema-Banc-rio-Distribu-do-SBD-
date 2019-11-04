@@ -1,4 +1,4 @@
-# Projeto-Final-de-Sistemas-Distribu-dos-Sistema-Banc-rio-Distribu-do-SBD
+# Projeto Final SD: Sistema Bancário-Distribuído
 ---
 ## Objetivos do trabalho
 
